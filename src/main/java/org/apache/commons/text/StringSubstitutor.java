@@ -132,6 +132,7 @@ import org.apache.commons.text.matcher.StringMatcherFactory;
  *
  * @since 1.3
  */
+@SuppressWarnings("PMD")
 public class StringSubstitutor {
 
     /**
